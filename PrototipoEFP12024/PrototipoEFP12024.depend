@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1718058228 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\bitacora.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Bitacora.h"
+
+1718058059 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1718119680 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\empleado.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"empleado.h"
+	"Bitacora.h"
+
+1718048754 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\empleado.h
+	<iostream>
+
+1718058419 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\login.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Login.h"
+	"Bitacora.h"
+
+1718041277 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1717000052 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\usualumnos.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1716999019 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\usuarios.cpp
+	"usuarios.h"
+	"usualumnos.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"usumaestros.h"
+
+1718041077 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1717000052 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\usualumnos.h
+	<iostream>
+
+1717000052 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\usumaestros.h
+	<iostream>
+
+1717000052 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\usumaestros.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1718080716 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Login.h"
+	"Bitacora.h"
+	"empleado.h"
+	"informes.h"
+
+1718123762 source:c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\src\informes.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"informes.h"
+	"empleado.h"
+	"Bitacora.h"
+
+1718119490 c:\users\admi\onedrive\documentos\carpeta para git\examenfinal\prototipoefp12024\include\informes.h
+	<iostream>
+
+1718190735 source:c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Login.h"
+	"Bitacora.h"
+	"empleado.h"
+	"informes.h"
+
+1718190735 c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1718190735 c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1718190735 c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\include\empleado.h
+	<iostream>
+
+1718190735 c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\include\informes.h
+	<iostream>
+
+1718190735 source:c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\src\bitacora.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Bitacora.h"
+
+1718190735 source:c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\src\informes.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"informes.h"
+	"empleado.h"
+	"Bitacora.h"
+
+1718190735 source:c:\users\c2307\desktop\respositorio 2\examenfinal\prototipoefp12024\src\login.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Login.h"
+	"Bitacora.h"
+
+1718207172 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Login.h"
+	"Bitacora.h"
+	"empleado.h"
+	"informes.h"
+
+1718207109 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1718207077 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1718207053 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\include\empleado.h
+	<iostream>
+
+1718207103 c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\include\informes.h
+	<iostream>
+
+1718190735 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Bitacora.h"
+
+1718206681 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\src\empleado.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"empleado.h"
+	"Bitacora.h"
+
+1718207300 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\src\informes.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"informes.h"
+	"empleado.h"
+	"Bitacora.h"
+
+1718207231 source:c:\users\c2307\desktop\prototipoefp12024\prototipoefp12024\src\login.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Login.h"
+	"Bitacora.h"
+
